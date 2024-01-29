@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Boamah</h1>
-<h3 align="center">A passionate data scientist from Ghana</h3>
+<h3 align="center">A passionate data scientist and Machine Learning Enthusiast, AWS Solutions Architect from Ghana</h3>
 <img align="right" alt="Coding" width="400" src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg">
 
-- I am interested in Data Science and DevOps/Cloud Engineer/Solutions Architect
-- 🔭 I’m currently working on **Skin Disorder Prediction Model**
+- I am interested in Data Science, DevOps/Cloud Engineer/Solutions Architect
+- 🔭 I’m currently working on **Data Science and Machine Learning Projects**
 
 - 🌱 I’m currently learning **AWS Cloud Engineering**
 
